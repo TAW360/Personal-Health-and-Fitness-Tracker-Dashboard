@@ -40,7 +40,7 @@ Load the Data: Open Tableau and connect to the Excel file.
 - **Add Filters and Titles**: Add filters for interactivity and title each visualization for clarity.
 
 ## Conclusion
-The Personal Health and Fitness Tracker Dashboard successfully visualizes personal health and fitness data, providing valuable insights into daily activities, calorie expenditure, and time management. By utilizing Tableau, we created interactive visualizations that allow users to track their fitness journey over time.
+The Personal Health and Fitness Tracker Dashboard successfully visualizes personal health and fitness data, providing valuable insights into daily activities, calorie expenditure, and time management. By utilizing Tableau, i created interactive visualizations that allow users to track their fitness journey over time.
 
 ## Key Insights
 - **Activity Trends**: The line chart displaying daily steps highlights trends in physical activity, allowing users to identify patterns in their exercise habits.
